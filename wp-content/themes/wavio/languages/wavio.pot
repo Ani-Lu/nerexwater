@@ -1,0 +1,663 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-25 19:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: classes/class-theme-walker-comment.php:123
+msgid " to Post Author"
+msgstr ""
+
+#. 1: Comment date, 2: Comment time.
+#: classes/class-theme-walker-comment.php:64
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. %s: Author name.
+#: inc/template-tags.php:163
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: footer.php:25
+msgid ". All rights reserved. "
+msgstr ""
+
+#: header.php:118
+msgid "404 NOT FOUND"
+msgstr ""
+
+#: inc/template-tags.php:202
+msgctxt "A string that is output before one or more categories"
+msgid "In"
+msgstr ""
+
+#: classes/class-wp-bootstrap-navwalker.php:369
+msgid "Add a menu"
+msgstr ""
+
+#: classes/class-theme-customize.php:358
+msgid "Address link."
+msgstr ""
+
+#: classes/class-theme-customize.php:343
+msgid "Address text."
+msgstr ""
+
+#. Name of the template
+msgid "Blog 1 Column"
+msgstr ""
+
+#. Name of the template
+msgid "Blog 1 Column with Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog 2 Columns"
+msgstr ""
+
+#. Name of the template
+msgid "Blog 2 Columns with Sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Blog 3 Columns"
+msgstr ""
+
+#: functions.php:220
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:484
+msgid "Breadcrumb NavXT"
+msgstr ""
+
+#: classes/class-theme-customize.php:144
+msgid "Button background first color"
+msgstr ""
+
+#: classes/class-theme-customize.php:157
+msgid "Button background second color"
+msgstr ""
+
+#: classes/class-theme-customize.php:170
+msgid "Button hover color"
+msgstr ""
+
+#: inc/template-tags.php:164
+msgid "By "
+msgstr ""
+
+#. %s: Author name.
+#: template-parts/entry-author-bio.php:16
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: header.php:84 classes/class-theme-customize.php:395
+msgid "Call Us"
+msgstr ""
+
+#: classes/class-theme-customize.php:402
+msgid "Call Us text."
+msgstr ""
+
+#: classes/class-theme-customize.php:290
+msgid "Cart count color"
+msgstr ""
+
+#: inc/template-tags.php:198 template-parts/entry-header.php:41 
+#: template-parts/blog-entry-header.php:27
+msgid "Categories"
+msgstr ""
+
+#: classes/class-theme-customize.php:77
+msgid "Changes footer background color."
+msgstr ""
+
+#: classes/class-theme-customize.php:63
+msgid ""
+"Changes header background and second accent colors. If there is no changing "
+"of the header color that means the current page uses Elementor builder’s "
+"header instead of the site's global, so you need to change the color on the "
+"page."
+msgstr ""
+
+#: classes/class-theme-customize.php:235
+msgid "Changes text selection background color. Try to select text on a page."
+msgstr ""
+
+#: functions.php:479
+msgid "Checkout Manager for WooCommerce"
+msgstr ""
+
+#: functions.php:547
+msgid "Classic Editor"
+msgstr ""
+
+#: classes/class-theme-customize.php:276
+msgid "Color of sale badge"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments"
+msgstr ""
+
+#: comments.php:124
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: Number of comments, 2: Post title.
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s reply on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s replies on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Post title.
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One reply on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: functions.php:489
+msgid "Contact Form 7"
+msgstr ""
+
+#: template-parts/content.php:22
+msgid "Continue reading"
+msgstr ""
+
+#. Copyright date format, see https://www.php.net/date
+#: footer.php:20
+msgctxt "copyright date format"
+msgid "Y "
+msgstr ""
+
+#: classes/class-theme-customize.php:454
+msgid "Custom copyright text."
+msgstr ""
+
+#: classes/class-theme-customize.php:479
+msgid "Disable \"Add to cart\" button on product tiles"
+msgstr ""
+
+#: classes/class-theme-customize.php:441
+msgid "Disable \"Copyright\" text before the year"
+msgstr ""
+
+#: classes/class-theme-customize.php:507
+msgid "Disable post author meta text"
+msgstr ""
+
+#: classes/class-theme-customize.php:493
+msgid "Disable post category meta text"
+msgstr ""
+
+#: classes/class-theme-customize.php:534
+msgid "Disable post comments meta text"
+msgstr ""
+
+#: classes/class-theme-customize.php:521
+msgid "Disable post date meta text"
+msgstr ""
+
+#. Author of the theme
+msgid "Duck-Themes"
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:73
+msgid "Edit"
+msgstr ""
+
+#: functions.php:537
+msgid "Elementor"
+msgstr ""
+
+#: template-parts/blog-grid.php:71 template-parts/elementor-blog-grid.php:84
+msgid "Empty Blog"
+msgstr ""
+
+#: classes/class-theme-customize.php:329
+msgid "Enable address on the header?"
+msgstr ""
+
+#: classes/class-theme-customize.php:373
+msgid "Enable Call Us on the header?"
+msgstr ""
+
+#: classes/class-theme-customize.php:556
+msgid "Enable search an entire website, not just products"
+msgstr ""
+
+#: classes/class-elementor-recent-posts.php:45
+msgid "Enter number of posts"
+msgstr ""
+
+#: functions.php:525
+msgid "Envato Market"
+msgstr ""
+
+#: classes/class-theme-customize.php:344
+msgid "Field for business address."
+msgstr ""
+
+#: classes/class-theme-customize.php:429
+msgid "Footer"
+msgstr ""
+
+#: functions.php:183
+msgid "Footer #1"
+msgstr ""
+
+#: functions.php:195
+msgid "Footer #2"
+msgstr ""
+
+#: functions.php:207
+msgid "Footer #3"
+msgstr ""
+
+#: classes/class-theme-customize.php:76
+msgid "Footer background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:118
+msgid "Footer widget title color"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page without Header Title"
+msgstr ""
+
+#: 404.php:16 template-parts/blog-grid.php:73
+msgid "Go to homepage"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: inc/google-fonts.php:13
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: classes/class-theme-customize.php:316
+msgid "Header"
+msgstr ""
+
+#: classes/class-theme-customize.php:131
+msgid "Header links hover color"
+msgstr ""
+
+#: functions.php:155
+msgid "Header Menu"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://peerduck.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wavio.peerduck.com"
+msgstr ""
+
+#: searchform.php:77 searchform.php:81
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: comments.php:30
+msgid "Leave a comment"
+msgstr ""
+
+#: classes/class-theme-customize.php:455
+msgid "Leave blank to use default copyright."
+msgstr ""
+
+#: classes/class-theme-customize.php:417
+msgid "Logo height:"
+msgstr ""
+
+#: functions.php:499
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: inc/cart-icon.php:12
+msgid "My Basket"
+msgstr ""
+
+#: template-parts/pagination.php:9
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: comments.php:70
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/navigation.php:40
+msgid "Next Post"
+msgstr ""
+
+#: functions.php:494
+msgid "NextGEN Gallery"
+msgstr ""
+
+#: index.php:34 header.php:122
+msgid "Nothing Found"
+msgstr ""
+
+#: classes/class-elementor-recent-posts.php:42
+msgid "Number of posts"
+msgstr ""
+
+#: template-parts/pagination.php:14
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: 404.php:10
+msgid "Ooops. <span class=\"pr-color\">Page Not Found!</span>"
+msgstr ""
+
+#: template-parts/content.php:37
+msgid "Page"
+msgstr ""
+
+#: template-parts/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: classes/class-theme-customize.php:387
+msgid "Phone number."
+msgstr ""
+
+#: searchform.php:79
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: template-parts/navigation.php:22
+msgid "Post"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgid "Post author"
+msgstr ""
+
+#: inc/template-tags.php:180
+msgid "Post date"
+msgstr ""
+
+#: functions.php:542
+msgid "Premium Addons for Elementor"
+msgstr ""
+
+#: template-parts/navigation.php:32
+msgid "Previous Post"
+msgstr ""
+
+#: classes/class-theme-customize.php:248
+msgid "Price color"
+msgstr ""
+
+#: classes/class-theme-customize.php:62
+msgid "Primary background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:34
+msgid "Primary color"
+msgstr ""
+
+#: classes/class-theme-customize.php:90
+msgid "Primary dark color"
+msgstr ""
+
+#: classes/class-theme-customize.php:48
+msgid "Primary hover color"
+msgstr ""
+
+#: classes/class-theme-customize.php:262
+msgid "Product title color"
+msgstr ""
+
+#: template-parts/blog-tile.php:13
+msgid "Read more"
+msgstr ""
+
+#: functions.php:531
+msgid "Recent Posts Widget with Thumbnails"
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:51
+msgid "says:"
+msgstr ""
+
+#: header.php:120
+msgid "Search"
+msgstr ""
+
+#: classes/class-theme-customize.php:291
+msgid ""
+"Sets background color for count badge on cart icon on the header. Add "
+"product to cart to see the badge."
+msgstr ""
+
+#: classes/class-theme-customize.php:249
+msgid "Sets color for price text on product tiles."
+msgstr ""
+
+#: classes/class-theme-customize.php:263
+msgid "Sets color for title on product tile."
+msgstr ""
+
+#: classes/class-theme-customize.php:105
+msgid "Sets color for titles."
+msgstr ""
+
+#: classes/class-theme-customize.php:277
+msgid "Sets color of sale badge on product tile."
+msgstr ""
+
+#: classes/class-theme-customize.php:305
+msgid "Sets icon color on success notice ✔"
+msgstr ""
+
+#: classes/class-theme-customize.php:49
+msgid "Sets link hover color."
+msgstr ""
+
+#: classes/class-theme-customize.php:35
+msgid "Sets main accent color."
+msgstr ""
+
+#: classes/class-theme-customize.php:91
+msgid "Sets text color in paragraphs."
+msgstr ""
+
+#. Name of the template
+msgid "Shadow Box"
+msgstr ""
+
+#: functions.php:244
+msgid "Shop sidebar"
+msgstr ""
+
+#: functions.php:232
+msgid "Single product sidebar"
+msgstr ""
+
+#: functions.php:504
+msgid "Smart Slider 3"
+msgstr ""
+
+#: classes/class-theme-customize.php:196
+msgid "Social icon circle background color"
+msgstr ""
+
+#: classes/class-theme-customize.php:209
+msgid "Social icon circle background hover color"
+msgstr ""
+
+#: classes/class-theme-customize.php:183
+msgid "Social icon color"
+msgstr ""
+
+#: functions.php:156 template-parts/footer-widgets.php:33
+msgid "Social Menu"
+msgstr ""
+
+#: inc/template-tags.php:254
+msgid "Sticky post"
+msgstr ""
+
+#: searchform.php:55 searchform.php:84
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: classes/class-theme-customize.php:304
+msgid "Success icon color"
+msgstr ""
+
+#: inc/template-tags.php:216
+msgid "Tags"
+msgstr ""
+
+#: classes/class-theme-customize.php:234
+msgid "Text selection background color"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"The page you are looking for doesnt exist.<br> Looks like you are in the "
+"wrong place.<br> Let us guide you back!"
+msgstr ""
+
+#: classes/class-theme-customize.php:104
+msgid "Title color"
+msgstr ""
+
+#: classes/class-theme-customize.php:466
+msgid "Tweaks"
+msgstr ""
+
+#: functions.php:509
+msgid "Unyson"
+msgstr ""
+
+#: classes/class-theme-customize.php:403
+msgid ""
+"Use any or default Call Us text (it also uses Call Us text if this field is "
+"blank)."
+msgstr ""
+
+#: template-parts/entry-author-bio.php:26
+msgid "View Archive <span aria-hidden=\"true\">&rarr;</span>"
+msgstr ""
+
+#: inc/cart-icon.php:49
+msgid "View your shopping cart"
+msgstr ""
+
+#. Description of the theme
+msgid "Water Delivery WordPress Theme"
+msgstr ""
+
+#. Name of the theme
+msgid "Wavio"
+msgstr ""
+
+#: functions.php:566
+msgid "Wavio Demo Content"
+msgstr ""
+
+#: index.php:31
+msgid ""
+"We could not find any results for your search. You can give it another try "
+"through the search form at the top of the page."
+msgstr ""
+
+#. %s: Number of search results.
+#: index.php:22
+#, php-format
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:185
+msgid ""
+"Widgets in this area will be displayed in the first column in the footer."
+msgstr ""
+
+#: functions.php:197
+msgid ""
+"Widgets in this area will be displayed in the second column in the footer."
+msgstr ""
+
+#: functions.php:222
+msgid ""
+"Widgets in this area will be displayed in the second column on blog pages."
+msgstr ""
+
+#: functions.php:234
+msgid ""
+"Widgets in this area will be displayed in the second column on single "
+"product pages."
+msgstr ""
+
+#: functions.php:246
+msgid ""
+"Widgets in this area will be displayed in the second column on the shop page."
+msgstr ""
+
+#: functions.php:209
+msgid ""
+"Widgets in this area will be displayed in the third column in the footer."
+msgstr ""
+
+#: functions.php:515
+msgid "WooCommerce"
+msgstr ""
+
+#: classes/class-theme-customize.php:222
+msgid "Woocommerce price filter widget color"
+msgstr ""
+
+#: functions.php:520
+msgid "WP Google Fonts"
+msgstr ""
+
+#: classes/class-theme-customize.php:359
+msgid ""
+"You can use any map service here, for example <a href=\"https://www.google."
+"com/maps\" target=\"_blank\">Google Maps</a>, just find your place in Google "
+"Maps, copy link and put it to this field to set."
+msgstr ""
+
+#: classes/class-theme-customize.php:388
+msgid ""
+"You can use any phone number format here e.g. 123-AWESOME-BUSINESS or +1 234 "
+"56 78."
+msgstr ""
+
+#: classes/class-theme-walker-comment.php:88
+msgid "Your comment is awaiting moderation."
+msgstr ""
